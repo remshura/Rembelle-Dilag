@@ -22,5 +22,5 @@ I am an active member of the Computer Science Student Organization (CSSO), where
 
 ### 📫 Connect with Me
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: (add your link here)
+* GitHub: https://github.com/remshura
+* LinkedIn: https://www.linkedin.com/in/rembelle-dilag-8b93103b0/
